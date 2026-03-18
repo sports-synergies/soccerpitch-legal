@@ -1,12 +1,12 @@
-# SoccerPitch Privacy Policy
+# OpenPitch Privacy Policy
 
 Last Updated: 2026-02-26
 
-This Privacy Policy explains how SoccerPitch, a product of Sports Synergies, Corp., collects, uses, shares, and protects information when you use the SoccerPitch mobile application, websites, and related services (the “Services”).
+This Privacy Policy explains how OpenPitch, a product of Sports Synergies, Corp., collects, uses, shares, and protects information when you use the OpenPitch mobile application, websites, and related services (the “Services”).
 
-SoccerPitch is operated by Sports Synergies, Corp., a Connecticut corporation.
+OpenPitch is operated by Sports Synergies, Corp., a Connecticut corporation.
 
-If you have questions, contact us at: contact@soccerpitchapp.com
+If you have questions, contact us at: support@openpitchapp.com
 
 ## 1. Scope
 
@@ -98,7 +98,7 @@ Depending on your location, you may have rights to:
 - Access, correct, or delete certain information
 - Object to or restrict certain processing
 - Receive a copy of your information
-You can request these by contacting us at invest@sportssynergies.com.
+You can request these by contacting us at support@openpitchapp.com.
 
 ## 8. Children
 
@@ -114,5 +114,5 @@ We may update this Policy from time to time. We will update the "Last Updated" d
 
 ## 11. Contact Us
 
-SoccerPitch, a division of Sports Synergies, Corp  
-Email: contact@soccerpitchapp.com
+OpenPitch, a division of Sports Synergies, Corp  
+Email: support@openpitchapp.com

@@ -1,8 +1,8 @@
-# SoccerPitch Terms of Service
+# OpenPitch Terms of Service
 
 Last Updated: 2026-02-26
 
-These Terms of Service (“Terms”) govern your access to and use of the SoccerPitch mobile application, websites, and related services (the “Services”). The Services are operated by Sports Synergies, Corp., a Connecticut corporation. In these Terms, “SoccerPitch,” “we,” “us,” and “our” refer to Sports Synergies, Corp., doing business as SoccerPitch.
+These Terms of Service (“Terms”) govern your access to and use of the OpenPitch mobile application, websites, and related services (the “Services”). The Services are operated by Sports Synergies, Corp., a Connecticut corporation. In these Terms, “OpenPitch,” “we,” “us,” and “our” refer to Sports Synergies, Corp., doing business as OpenPitch.
 
 By using the Services, you agree to these Terms.
 
@@ -51,7 +51,7 @@ Certain Services require payment. Payments may be processed by third party proce
 Fees may include registration fees, team dues, transaction fees, marketplace fees, or subscription fees, depending on the feature.
 
 ### 6.3 Refunds
-Refund policies are determined by the applicable league, association, event organizer, or seller unless otherwise stated. SoccerPitch may provide tooling to support refunds, but the responsible party is determined by the context of the transaction.
+Refund policies are determined by the applicable league, association, event organizer, or seller unless otherwise stated. OpenPitch may provide tooling to support refunds, but the responsible party is determined by the context of the transaction.
 
 ## 7. Marketplace Listings
 
@@ -59,11 +59,11 @@ If you create listings or offers, you are responsible for:
 - Accuracy of listing content
 - Compliance with applicable laws
 - Customer fulfillment and support
-SoccerPitch may remove listings that violate these Terms or applicable rules.
+OpenPitch may remove listings that violate these Terms or applicable rules.
 
 ## 8. Intellectual Property
 
-The Services, including software, branding, and content provided by SoccerPitch, are owned by SoccerPitch or its licensors. You receive a limited, non-exclusive, non-transferable license to use the Services for their intended purpose.
+The Services, including software, branding, and content provided by OpenPitch, are owned by OpenPitch or its licensors. You receive a limited, non-exclusive, non-transferable license to use the Services for their intended purpose.
 
 ## 9. Termination
 
@@ -75,9 +75,9 @@ The Services are provided on an "as is" and "as available" basis. We do not guar
 
 ## 11. Limitation of Liability
 
-To the maximum extent permitted by law, SoccerPitch will not be liable for indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues.
+To the maximum extent permitted by law, OpenPitch will not be liable for indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues.
 
-Our total liability for any claim related to the Services is limited to the amount you paid to SoccerPitch for the Services in the 12 months before the event giving rise to the claim, or $100 if you paid nothing.
+Our total liability for any claim related to the Services is limited to the amount you paid to OpenPitch for the Services in the 12 months before the event giving rise to the claim, or $100 if you paid nothing.
 
 ## 12. Governing Law
 
@@ -85,5 +85,5 @@ These Terms are governed by the laws of the State of Connecticut, without regard
 
 ## 13. Contact
 
-SoccerPitch, a division of Sports Synergies, Corp. 
-Email: contact@soccerpitchapp.com
+OpenPitch, a division of Sports Synergies, Corp. 
+Email: support@openpitchapp.com
